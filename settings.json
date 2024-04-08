@@ -13,8 +13,6 @@
 	"convertWikiMarkup": true,
 	"decodeIssueDescription": true,
 	"jiraServerSettings": {
-		"url": "", for example
-		"user": "",
-		"password": ""
+	
 	}
 }
